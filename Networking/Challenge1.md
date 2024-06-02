@@ -123,10 +123,11 @@
 
 ![Web Browser Image](images/DataTransmission.png)
 
----
 
 <p style="font-size: smaller;"><em>The server sends the HTTP response back to the browser over the established connection. This includes HTML, CSS, JavaScript files, images, and other resources.</em>
 </div>
+
+---
 
 Step 7: Rendering the Page
   <br>
