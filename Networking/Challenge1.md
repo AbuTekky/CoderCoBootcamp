@@ -12,7 +12,16 @@
 <div style="text-align: center;">
   Step 2: DNS Resolution
   
-![Web Browser Image](Networking/images/dnsresolver.png)
+![DNS Resolver Image](Networking/images/dnsresolver.png)
+
+<p style="font-size: smaller;"><em>DNS Resolver performing a DNS query for www.google.com</em></p>
+
+</div>
+
+<div style="text-align: center;">
+  Step 3: 
+  
+![DNS Resolver Image](Networking/images/dnsresolver.png)
 
 <p style="font-size: smaller;"><em>DNS Resolver performing a DNS query for www.google.com</em></p>
 
