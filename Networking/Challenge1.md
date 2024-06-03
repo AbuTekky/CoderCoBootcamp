@@ -66,7 +66,7 @@
 ![Web Browser Image](images/tcpconnection.png)
 
 
-<p style="font-size: smaller;"><em>TThe browser uses the IP address to establish a TCP connection to the web server. This involves a three-way handshake:</em>
+<p style="font-size: smaller;"><em>The browser uses the IP address to establish a TCP connection to the web server. This involves a three-way handshake:</em>
 </div>
 
 <ol style="font-size: smaller;">
