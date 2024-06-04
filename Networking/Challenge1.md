@@ -66,7 +66,7 @@
 ![Web Browser Image](images/tcpconnection.png)
 
 
-<p style="font-size: smaller;"><em>TThe browser uses the IP address to establish a TCP connection to the web server. This involves a three-way handshake:</em>
+<p style="font-size: smaller;"><em>The browser uses the IP address to establish a TCP connection to the web server. This involves a three-way handshake:</em>
 </div>
 
 <ol style="font-size: smaller;">
@@ -127,3 +127,13 @@
 <p style="font-size: smaller;"><em>The server sends the HTTP response back to the browser over the established connection. This includes HTML, CSS, JavaScript files, images, and other resources.</em>
 </div>
 
+---
+
+Step 7: Rendering the Page
+  <br>
+
+  ![Web Browser Image](images/renderingpage.png)
+
+  <p style="font-size: smaller;"><em>When a browser receives a response from a web server, it processes the HTML, CSS, and JavaScript files to render and display the web page, allowing user interaction.</em></p>
+  
+</div>
