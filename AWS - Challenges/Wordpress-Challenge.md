@@ -16,7 +16,7 @@
 ## Step 2: Create a Subnet
 
 <div align="center">
-    <img src="awsimages/subnet.png" alt="Subnet Image" width="600">
+    <img src="awsimages/subnet.PNG" alt="Subnet Image" width="600">
     <p style="font-size: small;"><em>Figure 2: Subnet - Created a subnet with a CIDR block of 10.0.0.0/24 within the VPC. This subnet can support up to 256 IP addresses, including network, broadcast, and host addresses.</em></p>
 </div>
 
@@ -29,7 +29,7 @@
 ## Step 3: Create an Internet Gateway
 
 <div align="center">
-    <img src="awsimages/igw.png" alt="Internet Gateway Image" width="600">
+    <img src="awsimages/igw.PNG" alt="Internet Gateway Image" width="600">
     <p style="font-size: small;"><em>Figure 3: IGW - Created an Internet Gateway and attached it to the VPC. An Internet Gateway allows your servers to access the internet and lets people from the internet access your servers.</em></p>
 </div>
 
@@ -42,7 +42,7 @@
 ## Step 4: Create a Route Table
 
 <div align="center">
-    <img src="awsimages/rtb.png" alt="Route Table Image" width="600">
+    <img src="awsimages/rtb.PNG" alt="Route Table Image" width="600">
     <p style="font-size: small;"><em>Figure 4: RTB - Created a route table for the VPC, then created a route to direct internet traffic to the Internet Gateway and associated the route table with the subnet. The route table determines how traffic is directed within the VPC.</em></p>
 </div>
 
