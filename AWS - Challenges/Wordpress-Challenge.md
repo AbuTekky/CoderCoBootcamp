@@ -55,7 +55,7 @@
 ## Step 5: Create EC2 Instance with Public IP
 
 <div align="center">
-    <img src="awsimages/ec2.png" alt="EC2 Instance Image" width="600">
+    <img src="awsimages/ec2.PNG" alt="EC2 Instance Image" width="600">
     <p style="font-size: small;"><em>Figure 5: EC2 Instance - Created an EC2 Instance with a Public IP to host WordPress and be accessible from anywhere. This allows remote management using SSH. The EC2 instance is the backbone of the web server setup.</em></p>
 </div>
 
@@ -68,7 +68,7 @@
 ## Step 6: Configuring Security Groups during EC2 Setup
 
 <div align="center">
-    <img src="awsimages/sg.png" alt="Security Group Image" width="600">
+    <img src="awsimages/sg.PNG" alt="Security Group Image" width="600">
     <p style="font-size: small;"><em>Figure 6: During the EC2 setup, created a security group, enabled auto-assign public IP, and configured inbound rules for port 22 for SSH access. Security groups act like virtual firewalls for your instance.</em></p>
 </div>
 
