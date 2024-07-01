@@ -9,7 +9,7 @@
 
 ### What does it do?
 
-- Creates a virtual network dedicated to my AWS account with an address range of 10.0.0.0/16.
+- Creates a virtual network dedicated to my AWS account with an address range of 10.0.0.0/16
 
 ---
 
