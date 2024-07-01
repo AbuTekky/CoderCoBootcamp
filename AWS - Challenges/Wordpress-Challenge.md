@@ -3,7 +3,7 @@
 ## Step 1: Create and Configure the VPC
 
 <div align="center">
-    <img src="awsimages/vpc.png" alt="VPC Image" width="600">
+    <img src="awsimages/vpc.PNG" alt="VPC Image" width="600">
     <p style="font-size: small;"><em>Figure 1: VPC - Created a VPC with a CIDR block of 10.0.0.0/16. CIDR blocks define a range of IP addresses. The VPC is your private section of the internet where you can run your servers securely.</em></p>
 </div>
 
